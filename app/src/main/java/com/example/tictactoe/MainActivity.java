@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
     //o=1
     //null=9
 
+    //Hi,I'm Shubha
+
     Button reset;
     Vibrator vibrator;
 
