@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
         //image.animate().translationYBy(1000f).setDuration(300);
-        //SHUBHAJIT RANA
+        //hi,SHUBHAJIT RANA
 
         for(int[] win:winpositions)
         {
